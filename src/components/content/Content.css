@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.content-wrapper {
+    margin-top: 10px;
+    height: 100vh;
+    background-color: rgba(155, 145, 145, 0.479);
+    margin-bottom: 10px;
+    z-index: 0;
+}
+
+
